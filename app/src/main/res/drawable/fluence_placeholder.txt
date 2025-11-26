@@ -1,0 +1,1 @@
+[replace with fluence silver image: app/src/main/res/drawable/fluence_placeholder.jpg]

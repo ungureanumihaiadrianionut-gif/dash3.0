@@ -1,0 +1,1 @@
+[replace with gtr gauge image: app/src/main/res/drawable/gtr_example.jpg]
